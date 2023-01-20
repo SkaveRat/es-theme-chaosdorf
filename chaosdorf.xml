@@ -49,7 +49,7 @@ based on:		MetaPixel by mattrixk / "Pixel" by Eric Hettervik
         <helpsystem name="help">
             <textColor>ffffffff</textColor>
             <iconColor>ffffffff</iconColor>
-            <fontSize>0.038</fontSize>
+            <fontSize>0.021</fontSize>
         </helpsystem>
 
         <!--
@@ -119,7 +119,7 @@ based on:		MetaPixel by mattrixk / "Pixel" by Eric Hettervik
             <selectedColor>ffffff</selectedColor>
             <primaryColor>ffffff</primaryColor>
             <secondaryColor>d5d5d5</secondaryColor>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.02</fontSize>
         </textlist>
 
         <image name="logo" extra="true">
